@@ -84,7 +84,7 @@ label
 
 label1  
 
-ADD: (Add)  
+### ADD: (Add)  
 
 REG, memory  
 memory, REG  
@@ -92,6 +92,6 @@ REG, REG
 memory, immediate  
 REG, immediate  
 
-HLT: (Halt the System)  
+### HLT: (Halt the System)  
 
 No operand  
