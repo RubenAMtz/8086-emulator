@@ -1,4 +1,4 @@
-# 8086-Emulator
+# 8086 Emulator
 
 Emulating the 8086 microcontroller from Intel using C code and readying a program in assambler from a TXT file.
 
